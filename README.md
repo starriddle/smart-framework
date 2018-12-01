@@ -1,7 +1,7 @@
-# demo
+# Smart Framework
 
-学习、运用中可能会遇到一系列或大或小的问题，本项目用于演示一些小玩意，验证一些小功能
+拜读《架构探险——从零开始写 Java Web 框架》，练手代码
 
-- 20181028 合并 spring-cloud 仓库
+- 20181201
 
-    所有demo合并到本仓库，本仓库合并前内容存于demo-premerge分支，原spring-cloud仓库内容存于cloud-premerge分支，
+    从 demo 仓库分离出来，独立成项。
