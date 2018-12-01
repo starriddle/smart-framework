@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.cyl.demo.framework</groupId>
+        <groupId>com.cyl.framework</groupId>
         <artifactId>framework</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
@@ -13,12 +13,12 @@
     <artifactId>chapter3</artifactId>
     <packaging>war</packaging>
 
-    <name>Demo::Framework::Chapter3</name>
+    <name>Framework::Chapter3</name>
 
     <dependencies>
         <!-- Smart Framework -->
         <dependency>
-            <groupId>com.cyl.demo.framework</groupId>
+            <groupId>com.cyl.framework</groupId>
             <artifactId>smart-framework</artifactId>
             <version>${project.parent.version}</version>
         </dependency>

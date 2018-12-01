@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.cyl.demo.framework</groupId>
+        <groupId>com.cyl.framework</groupId>
         <artifactId>framework</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
@@ -13,7 +13,7 @@
     <artifactId>chapter1</artifactId>
     <packaging>war</packaging>
 
-    <name>Demo::Framework::Chapter1</name>
+    <name>Framework::Chapter1</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
